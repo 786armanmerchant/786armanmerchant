@@ -6,5 +6,5 @@
  After trying various programming languages, I chose to merge both my love for Apple and coding that resulted in me learning iOS development.
 - 🌱 I’m currently learning Swift/SwiftUI📱<br>
 - 💬 Ask me about Anything<br>
-- - 🎯 Goal: To be a sucessfull iOS developer in Future 👨🏻‍💻.. <br>
+- 🎯 Goal: To be a sucessfull iOS developer in Future 👨🏻‍💻.. <br>
 - 📧 How to reach me: amerchant1749@conestogac.on.ca<br>
