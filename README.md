@@ -3,7 +3,6 @@
 - 😄 Pronouns: He/Him<br>
 -  👨‍🎓 I’m currently studying Computer Application Development at Conestoga College.
 - I love coding 👨🏻‍💻.
- After trying various programming languages, I chose to merge both my love for Apple and coding that resulted in me learning iOS development.
 - 🌱 I’m currently learning React & Azure DevOps.<br>
 - 💬 Ask me about Anything<br>
 - 🎯 Goal: To be a sucessfull Software Engineer in Future 👨🏻‍💻.. <br>
